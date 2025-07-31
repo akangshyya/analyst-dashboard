@@ -6,7 +6,7 @@ This project presents an interactive **HR Analytics Dashboard** built using **Po
 
 ## 📊 Dashboard Overview
 
-![HR Analytics Dashboard]([analyst_page-0001](https://github.com/user-attachments/assets/7a5f2f99-a09b-49ba-8f43-416f120addbd))
+![HR Analytics Dashboard](![analyst_page-0001](https://github.com/user-attachments/assets/a83ecbd3-0f66-4bf6-9007-352075165def))
 
 
 
@@ -24,9 +24,7 @@ The dashboard provides actionable insights into:
 
 ## 🔍 Key Visualizations
 
-- **Attrition by Age Group**![analyst_page-0001](https://github.com/user-attachments/assets/a83ecbd3-0f66-4bf6-9007-352075165def)
-[analyst.pdf](https://github.com/user-attachments/files/21523627/analyst.pdf)
-
+- **Attrition by Age Group**
 - **Attrition by Salary Band**
 - **Attrition by Job Role and Department**
 - **Attrition by Education Field**
@@ -38,7 +36,7 @@ The dashboard provides actionable insights into:
 
 - `HR_Analytics.csv`: Cleaned dataset used for visualization.
 - `HR_Analytics.pbix`: Power BI report file (upload manually to GitHub).
-- `3ef4d90e-aceb-4a7c-b88b-64c3432cae03.png`: Dashboard screenshot.
+- `https://github.com/user-attachments/assets/a83ecbd3-0f66-4bf6-9007-352075165def`: Dashboard screenshot.
 
 ---
 
@@ -72,4 +70,3 @@ The purpose of this dashboard is to help HR teams understand attrition patterns 
 ---
 
 ⭐ Star this repo if you found it helpful!
-[analyst.pdf](https://github.com/user-attachments/files/21523604/analyst.pdf)
