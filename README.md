@@ -6,7 +6,8 @@ This project presents an interactive **HR Analytics Dashboard** built using **Po
 
 ## 📊 Dashboard Overview
 
-![HR Analytics Dashboard]("C:\Users\akang\Downloads\analyst.pdf")
+![HR Analytics Dashboard]([analyst.pdf](https://github.com/user-attachments/files/21523620/analyst.pdf))
+
 
 The dashboard provides actionable insights into:
 
@@ -63,8 +64,9 @@ The purpose of this dashboard is to help HR teams understand attrition patterns 
 ## 📌 Author
 
 **Akangkshya Dutta**  
-[LinkedIn](https://www.linkedin.com) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com) | [Email](akangkshyya@gmail.com)
 
 ---
 
 ⭐ Star this repo if you found it helpful!
+[analyst.pdf](https://github.com/user-attachments/files/21523604/analyst.pdf)
