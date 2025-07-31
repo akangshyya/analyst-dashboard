@@ -6,7 +6,7 @@ This project presents an interactive **HR Analytics Dashboard** built using **Po
 
 ## 📊 Dashboard Overview
 
-![HR Analytics Dashboard](3ef4d90e-aceb-4a7c-b88b-64c3432cae03.png)
+![HR Analytics Dashboard]("C:\Users\akang\Downloads\analyst.pdf")
 
 The dashboard provides actionable insights into:
 
