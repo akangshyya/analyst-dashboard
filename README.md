@@ -6,7 +6,8 @@ This project presents an interactive **HR Analytics Dashboard** built using **Po
 
 ## 📊 Dashboard Overview
 
-![HR Analytics Dashboard]([analyst.pdf](https://github.com/user-attachments/files/21523620/analyst.pdf))
+![HR Analytics Dashboard]([analyst_page-0001](https://github.com/user-attachments/assets/7a5f2f99-a09b-49ba-8f43-416f120addbd))
+
 
 
 The dashboard provides actionable insights into:
@@ -23,7 +24,9 @@ The dashboard provides actionable insights into:
 
 ## 🔍 Key Visualizations
 
-- **Attrition by Age Group**
+- **Attrition by Age Group**![analyst_page-0001](https://github.com/user-attachments/assets/a83ecbd3-0f66-4bf6-9007-352075165def)
+[analyst.pdf](https://github.com/user-attachments/files/21523627/analyst.pdf)
+
 - **Attrition by Salary Band**
 - **Attrition by Job Role and Department**
 - **Attrition by Education Field**
