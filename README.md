@@ -6,8 +6,8 @@ This project presents an interactive **HR Analytics Dashboard** built using **Po
 
 ## 📊 Dashboard Overview
 
-![HR Analytics Dashboard]
-(![analyst_page-0001](https://github.com/user-attachments/assets/a83ecbd3-0f66-4bf6-9007-352075165def))
+HR Analytics Dashboard
+![analyst_page-0001](https://github.com/user-attachments/assets/a83ecbd3-0f66-4bf6-9007-352075165def)
 
 
 
