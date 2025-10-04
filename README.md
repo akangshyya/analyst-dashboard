@@ -21,6 +21,15 @@ The dashboard provides actionable insights into:
 - **Gender Ratio**: Males vs Females
 - **Average Tenure**: 7.0 years
 
+| Metric | Value |
+|:-------|:------|
+| 👥 Total Employees | **1470** |
+| 📉 Attrition Count | **237** |
+| 🔁 Attrition Rate | **16%** |
+| 🎂 Average Age | **37 years** |
+| 💰 Average Salary | **₹6.5K** |
+| 🚻 Gender Ratio | **Male : Female** |
+| ⏱️ Average Tenure | **7 years** |
 ---
 
 ## 🔍 Key Visualizations
@@ -33,12 +42,11 @@ The dashboard provides actionable insights into:
 
 ---
 
-## 📁 Files Included
-
-- `HR_Analytics.csv`: Cleaned dataset used for visualization.
-- `HR_Analytics.pbix`: Power BI report file (upload manually to GitHub).
-- `https://github.com/user-attachments/assets/a83ecbd3-0f66-4bf6-9007-352075165def`: Dashboard screenshot.
-
+| File | Description |
+|------|-------------|
+| `HR_Analytics.csv` | Cleaned dataset used for visualization |
+| `HR_Analytics.pbix` | Power BI dashboard file |
+| `image.png` | Dashboard preview |
 ---
 
 ## 💡 Business Use Case
