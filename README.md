@@ -13,14 +13,6 @@ HR Analytics Dashboard
 
 The dashboard provides actionable insights into:
 
-- **Total Employees**: 1470
-- **Attrition Count**: 237
-- **Attrition Rate**: 16%
-- **Average Age**: 37 years
-- **Average Salary**: ₹6.5K
-- **Gender Ratio**: Males vs Females
-- **Average Tenure**: 7.0 years
-
 | Metric | Value |
 |:-------|:------|
 | 👥 Total Employees | **1470** |
